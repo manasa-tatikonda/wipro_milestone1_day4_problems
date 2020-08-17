@@ -1,0 +1,8 @@
+int number=Math.abs(input1);
+if(number>=0 && number<=9){return -1;}
+else{return (number/10)%10;}
+
+
+
+
+https://tests.mettl.com/test-window/9f87004e

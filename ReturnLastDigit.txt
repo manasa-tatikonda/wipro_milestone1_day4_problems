@@ -1,0 +1,5 @@
+int number=Math.abs(input1);
+return number%10;
+
+
+pratice in : https://tests.mettl.com/test-window/454f012b

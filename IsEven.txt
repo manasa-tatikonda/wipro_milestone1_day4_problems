@@ -1,0 +1,9 @@
+int number=Math.abs(input1);
+if(number==0 || number%2==0){return 2;}
+else{return 1;}
+	
+
+
+
+	
+pratice in : https://tests.mettl.com/test-window/2bd025dc		
